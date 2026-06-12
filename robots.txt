@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plastic-parts-pl2.pages.dev/sitemap.xml
